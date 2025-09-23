@@ -27,8 +27,8 @@
 
 ### 📌 Projects
 
-- 🔹 [AVR Mini Projects](https://github.com/ahmednader/avr-projects) – small AVR-based embedded systems applications  
-- 🔹 [Full Stack Web Projects](https://github.com/ahmednader/web-projects) – web applications built with React & Node.js  
+<!--[- 🔹 [AVR Mini Projects](https://github.com/ahmednader/avr-projects) – small AVR-based embedded systems applications]-->  
+<!--[- 🔹 [Full Stack Web Projects](https://github.com/ahmednader/web-projects) – web applications built with React & Node.js]-->  
 
 ---
 
