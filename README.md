@@ -15,13 +15,13 @@
 ### 🚀 Tech Stack
 
 - **Embedded Systems**  
-  `C` • `C++` • `Embedded C (AVR)`  
+  `C` • `Embedded C (AVR)`  
 
 - **Web Development**  
-  `HTML` • `CSS` • `JavaScript` • `React` • `Node.js` • `Express` • `MongoDB`  
+  `HTML` • `CSS` • `JavaScript` • `React` • `Node.js`  
 
 - **Tools & Platforms**  
-  `Git` • `GitHub` • `Linux` • `VS Code`  
+  `Git` • `GitHub` • `VS Code` • `Atmel Studio` • `Code Block`  
 
 ---
 
