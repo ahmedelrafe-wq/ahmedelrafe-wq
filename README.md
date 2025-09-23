@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/ahmednader/ahmednader/main/assets/hello.gif" width="65%" alt="Hello World"/>
 
 # Hi, I'm Ahmed Nader 👋
-🎓 Telecommunications Engineering student at **Helwan University**  
+🎓 Electronics and Communication Engineering student at **Helwan University**  
 ⚡ Embedded Systems Enthusiast (**AVR Diploma Graduate**)  
 💻 Currently learning **Full Stack Web Development**
 
