@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ahmednader/ahmednader/main/assets/hello.gif" width="65%" alt="Hello World"/>
-
+<img src="https://github.com/ahmednader/ahmednader/blob/main/assets/hello.gif" width="60%" alt="Hello World"/>
 # Hi, I'm Ahmed Nader 👋
 🎓 Telecommunications Engineering student at **Helwan University**  
 ⚡ Embedded Systems Enthusiast (**AVR Diploma Graduate**)  
