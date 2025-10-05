@@ -44,7 +44,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-nader-953a97330" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ahmednader" target="_blank">
@@ -59,6 +59,6 @@
 
 <div align="center">
 
-⭐️ From [Ahmed Nader](https://github.com/ahmednader)
+⭐️ From [Ahmed Nader](https://github.com/ahmedelrafe-wq)
 
 </div>
