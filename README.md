@@ -59,6 +59,6 @@
 
 <div align="center">
 
-⭐️ From [Ahmed Nader](https://github.com/ahmedelrafe-wq)
+<p>⭐️ From <a href="https://github.com/ahmedelrafe-wq" target=_blank>Ahmed Nader</a></p>
 
 </div>
